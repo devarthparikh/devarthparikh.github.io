@@ -1,9 +1,8 @@
 theme: jekyll-theme-cayman
 title: Devarth Parikh
 description: Personal Webpage
-social_media:
-  linkedin: devarthparikh
-  medium: Devarthparikh
+
+linkedin: devarthparikh
 
 author:
   name             : "Devarth Parikh"
