@@ -1,5 +1,4 @@
-title: Your awesome title
-author:
-  name: Devarth Parikh
-  email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
+theme: jekyll-theme-cayman
+title: Devarth Parikh
+description: Personal Webpage
+
