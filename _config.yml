@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 title: Devarth Parikh
-description:  Webpage
+description: Personal Webpage
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  Description of the webpage
 
